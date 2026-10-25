@@ -1,5 +1,5 @@
 # Champollion Workbench
-<img width="790" height="1098" alt="image" src="https://github.com/user-attachments/assets/d24c57c6-c2b4-4ff8-b169-4da52fa3b1bc" />
+<img width="790" height="1098" alt="image" src="https://github.com/user-attachments/assets/daaf3174-1de7-4bbe-8e62-c5b875f200cd" />
 <img width="790" height="1098" alt="image" src="https://github.com/user-attachments/assets/e55eb061-e38f-410e-8b51-020da8f61f25" />
 
 
