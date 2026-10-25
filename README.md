@@ -26,6 +26,8 @@ Your `Champollion.zip` bundles two separate projects:
 
 So the honest situation for "recompile on Linux/X11": you have three
 options, and the GUI supports all of them —
+<img width="790" height="1098" alt="image" src="https://github.com/user-attachments/assets/bd960251-8d76-40da-86da-ec710010a82e" />
+
 
 1. **Build Caprica on Windows** (or cross-compile with MinGW) and run the
    resulting `Caprica.exe` on Linux through **Wine**. The Setup tab has a
